@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-social/Test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "mk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk-social/Test/issues"
+  },
+  "homepage": "https://github.com/mk-social/Test#readme"
+}
